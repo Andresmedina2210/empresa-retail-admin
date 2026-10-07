@@ -1,0 +1,13 @@
+*.sqlite
+*.sqlite3
+*.db
+*.bak
+*.dump
+*.sql.gz
+*.log
+.env
+*.cnf
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
